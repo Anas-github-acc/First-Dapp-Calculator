@@ -20,6 +20,7 @@ In this project we have setup a basic project structure for our **Calculator dap
 1. Clone the repo
 2. Move to this folder
 3. npm install
-4. Start truffle in the terminal : `truffle develop`
-5. Compile contract: `compile`
-6. Migrate contract: `migrate --reset`
+4. edit the `.env` file, add all necessary variables
+5. Start truffle in the terminal : `truffle develop`
+6. Compile contract: `compile`
+7. Migrate contract: `migrate --reset`
